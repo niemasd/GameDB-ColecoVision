@@ -1,0 +1,2 @@
+# GameDB-ColecoVision
+ColecoVision
