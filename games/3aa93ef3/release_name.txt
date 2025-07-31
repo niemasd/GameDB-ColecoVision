@@ -1,1 +1,1 @@
-[BIOS] ColecoVision (USA, Europe).col
+[BIOS] ColecoVision (USA, Europe)
